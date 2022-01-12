@@ -4,7 +4,7 @@ Les **expression régulières** sont très utiles et très puissantes pour extra
 
 Les leçons suivantes ont pour but de vous familiariser avec l'utilisation pratique des expressions régulières afin de vous permettre de profiter de leur puissance le plus rapidement possible.
 
-La première chose a bien comprendre lorsque l'on utilise les **regex** c'est que tout est essentiellement un caractère, et que nous écrivons des modèles (patterns) correspondant à une séquence spécifique de caractères. La plupart des patterns utilisent des caractères [ASCII](https://fr.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange), lettres, chiffres, signes de ponctuation et les autres symboles disponibles sur votre clavier, mais il est aussi possible d'utiliser des caractères unicode.
+La première chose à bien comprendre lorsque l'on utilise les **regex** c'est que tout est essentiellement un caractère, et que nous écrivons des modèles (patterns) correspondant à une séquence spécifique de caractères. La plupart des patterns utilisent des caractères [ASCII](https://fr.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange), lettres, chiffres, signes de ponctuation et les autres symboles disponibles sur votre clavier, mais il est aussi possible d'utiliser des caractères unicode.
 
 Vous trouverez ci-dessous un encart avec quelques lignes de texte et un champs de saisie où écrire votre **regex***. Pour passer à la leçon suivante, vous devrez utiliser les syntaxes et les concepts abordés dans la leçon pour écrire une expression régulière qui correspondent aux lignes présentées
 
