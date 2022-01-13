@@ -11,19 +11,17 @@ Les espacements les plus fréquents sont :
 
 Il existe en plus un métacaractère `\s` qui correspond à tous les espacements ci-dessus.
 
-Ecrivez une expression régulière qui corresponde aux 3 premières lignes (les seules à contenir un ou des espacements).
-
 ## exercice
+
+Ecrivez une expression régulière qui corresponde aux 3 premières lignes (les seules à contenir un ou des espacements).
 
 | tâche | texte  |
 | ----- | ------ |
 | match | 1. abc |
-| match | 2.    abc |
-| match | 3.        abc |
+| match | 2. abc |
+| match | 3. abc |
 | skip  | 4.abc  |
 
 **solution**
 
 `\d\.\s+abc`
-
-

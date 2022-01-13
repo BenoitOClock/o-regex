@@ -6,9 +6,9 @@ Il est également possible de spécifier le nombre de répétitions en utilisant
 
 Ce quantificateur peut-être utilisé avec n'importe quel caractère ou métacaractère. par exemple w{3} correspond à 3 `w`, `[wxy]{5}` correspond à 5 caractères pouvant être `w`, `x` ou `y` et .{2,6} correspond à entre 2 et 6 fois n'importe quel caractère.
 
-Ecrivez une expression régulière qui ne correspond qu'aux 2 premières lignes
-
 ## exercice
+
+Ecrivez une expression régulière qui ne correspond qu'aux 2 premières lignes.
 
 | tâche | texte     |
 | ----- | --------- |

@@ -6,9 +6,9 @@ Un autre quantificateur commun est `?` qui dénote l'optionnalité. Ce quantific
 
 Tout comme le métacaractère `.`, le point d'interrogation est un caractère spécial et il faudra l'échapper pour le faire correspondre à un point d'interrogation dans une chaîne.
 
-Remarquer comme le pluriel du mot `file` dépend du nombre de fichiers trouvés et essayer d'écrire un pattern utilisant le quantificateur `?`et correspondant aux 3 premières lignes, celles où au moins un fichier est trouvé.
-
 ## exercice
+
+Remarquer comme le pluriel du mot `file` dépend du nombre de fichiers trouvés et essayer d'écrire un pattern utilisant le quantificateur `?`et correspondant aux 3 premières lignes, celles où au moins un fichier est trouvé.
 
 | tâche | texte           |
 | ----- | --------------- |

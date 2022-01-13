@@ -8,9 +8,9 @@ La première chose à bien comprendre lorsque l'on utilise les **regex** c'est q
 
 Vous trouverez ci-dessous un encart avec quelques lignes de texte et un champs de saisie où écrire votre **regex\***. Pour passer à la leçon suivante, vous devrez utiliser les syntaxes et les concepts abordés dans la leçon pour écrire une expression régulière qui correspondent aux lignes présentées
 
-Pour continuer, essayer d'écrire un pattern qui corresponde aux 3 lignes affichées... par exemple essayez simplement les lettres communes à chaque ligne
-
 ## exercice
+
+Pour continuer, essayer d'écrire un pattern qui corresponde aux 3 lignes affichées... par exemple essayez simplement les lettres communes à chaque ligne
 
 | tâche | texte   |
 | ----- | ------- |

@@ -6,9 +6,9 @@ Quand on utilise la notation entre crochets, il est possible d'utilise le `-`pou
 
 Il est possible d'utiliser plusieurs intervalles au sein de la même paire de crochets et aussi d'y adjoindre des caractères spécifiques. Par exemple `[A-Za-z0-9_]` correspondra à une lettre majuscule ou minuscule, un chiffre, ou au caractère `_`.
 
-Dans l'exercice suivant vous devez trouver une regex correspondant aux 3 premières lignes. Notez que les intervalles sont sensibles à la casse. `[a-z]` ne correspond qu'aux minuscules et `[A-Z]` qu'aux majuscules.
-
 ## exercice
+
+Dans cet exercice vous devez trouver une regex correspondant aux 3 premières lignes. Notez que les intervalles sont sensibles à la casse. `[a-z]` ne correspond qu'aux minuscules et `[A-Z]` qu'aux majuscules.
 
 | tâche | texte |
 | ----- | ----- |

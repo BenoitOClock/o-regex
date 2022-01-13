@@ -7,9 +7,9 @@ Par exemple `\d*` correspond à n'importe quel nombre de chiffres alors que `\d+
 
 Ces quantificateurs peuvent-être utilisés avec n'importe quel caractère ou métacaractère. par exemple `a+` correspond à un `a` ou d'avantage, `[abc]*` à un ou plus de `a`, de `b` ou de `c` et `.*` à 0 ou d'avantage de fois n'importe quel caractère.
 
-Essayer de trouver une regex qui ne match que les 3 premières lignes en utilisant l'étoile et le plus de Kleene
-
 ## exercice
+
+Essayer de trouver une regex qui ne corresponde qu'aux 3 premières lignes en utilisant l'étoile et le plus de Kleene
 
 | tâche | texte   |
 | ----- | ------- |

@@ -4,9 +4,9 @@ Le métacaractère `.` que nous venons de voir est très puissant... parfois il 
 
 Il est possible de faire correspondre notre pattern avec plusieurs caractères spécifiques en les listants entre crochets. Par exemple le pattern `[abc]` ne correspondra qu'a un seul caractère pouvant être `a`, `b` ou `c` et rien d'autre.
 
-Trouvez une expression régulière qui corresponde uniquement aux 3 première lignes ci-dessous. Vous constatez qu'en utilisant le`.` il est impossible de ne pas correspondre avec les 3 dernières lignes.
-
 ## exercice
+
+Trouvez une expression régulière qui corresponde uniquement aux 3 première lignes ci-dessous. Vous constatez qu'en utilisant le`.` il est impossible de ne pas correspondre avec les 3 dernières lignes.
 
 | tâche | texte |
 | ----- | ----- |
