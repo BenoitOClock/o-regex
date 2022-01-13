@@ -1,8 +1,8 @@
 # Leçon 8 : Caractères optionnels
 
-Nous avons vu dans la leçon précédente comment m'étoile et le plus de Kleene nous permettent de correspondre à une répétition de caractères.
+Nous avons vu dans la leçon précédente comment l'étoile et le plus de Kleene nous permettent de correspondre à une répétition de caractères.
 
-Un autre quantificateur commun est le métacractère `?` qui dénote l'optionnalité. Ce métacaractère permet de correspondre à 0 ou une fois le caractère ou le groupe précédent. Par exemple le pattern `ab?c` correspond aux chaînes `abc` et `ac`, le `b`étant considéré comme optionnel.
+Un autre quantificateur commun est le métacaractère `?` qui dénote l'optionnalité. Ce métacaractère permet de correspondre à 0 ou une fois le caractère ou le groupe précédent. Par exemple le pattern `ab?c` correspond aux chaînes `abc` et `ac`, le `b`étant considéré comme optionnel.
 
 Tout comme le métacaractère `.`, le point d'interrogation est un caractère spécial et il faudra l'échapper pour le faire correspondre à un point d'interrogation dans une chaîne.
 
