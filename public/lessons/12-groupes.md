@@ -10,9 +10,11 @@ Imaginez que nous devons traiter une liste de fichiers et que nous souhaitons en
 
 Ecrivez une regex qui corresponde aux fichiers PDF et capture le nom des fichiers sans l'extension.
 
-1. capture file_record_transcript.pdf groupe capturé `file_record_transcript`
-2. capture file_07241999.pdf groupe capturé `file_07241999`
-3. skip testfile_fake.pdf.tmp
+| tâche   | texte                      | groupes capturés         |
+| ------- | -------------------------- | ------------------------ |
+| capture | file_record_transcript.pdf | `file_record_transcript` |
+| capture | file_07241999.pdf          | `file_07241999`          |
+| skip    | testfile_fake.pdf.tmp      |                          |
 
 **solution**
 

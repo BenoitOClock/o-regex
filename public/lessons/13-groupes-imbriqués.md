@@ -10,9 +10,11 @@ Les groupes imbriqués sont lus de gauche à droite, le premier groupe de captur
 
 Voici quelques dates. Ecrivez une regex qui corresponde et capture la date complète ainsi que l'année de chaque date.
 
-1. capture Jan 1987 groupes capturés `Jan 1987` `1987`
-2. capture Mai 1969 groupes capturés `Mai 1969` `1969`
-3. capture Aou 2007 groupes capturés `Aou 2007` `2007`
+| tâche   | texte        | groupes capturés      |
+| ------- | ------------ | --------------------- |
+| capture | Janvier 1987 | `Janvier 1987` `1987` |
+| capture | Mai 1969     | `Mai 1969` `1969`     |
+| capture | Août 2007    | `Août 2007` `2007`    |
 
 **solution**
 

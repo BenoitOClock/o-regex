@@ -14,9 +14,11 @@ Si on combine `^` et `$`, on crée un pattern qui correspond à la ligne complè
 
 Ecrivez une regex qui corresponde seulement à la première ligne.
 
-1. match Mission: sucessfull
-2. skip Last Mission: unsuccessful
-3. skip Next Mission: successful upon capture of target
+| tâche | texte                                           |
+| ----- | ----------------------------------------------- |
+| match | Mission: sucessfull                             |
+| skip  | Last Mission: unsuccessful                      |
+| skip  | Next Mission: successful upon capture of target |
 
 **solution**
 

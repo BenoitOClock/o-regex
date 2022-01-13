@@ -10,10 +10,12 @@ Remarquer comme le pluriel du mot `file` dépend du nombre de fichiers trouvés 
 
 ## exercice
 
-1. match 1 file found?
-2. match 2 files found?
-3. match 24 files found?
-4. skip No files found?
+| tâche | texte           |
+| ----- | --------------- |
+| match | 1 file found?   |
+| match | 2 files found?  |
+| match | 24 files found? |
+| skip  | No files found? |
 
 **solution**
 

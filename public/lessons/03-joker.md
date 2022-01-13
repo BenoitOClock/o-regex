@@ -8,11 +8,15 @@ Vous trouverez ci-dessous 4 chaînes dont les caractères diffèrent mais qui so
 
 ## exercice
 
-1. match cat.
-2. match 598.
-3. match ?=+.
-4. match abc1
+| tâche | texte |
+| ----- | ----- |
+| match | cat.  |
+| match | 598.  |
+| match | ?=+.  |
+| match | abc1  |
 
 **solution**
 
 `...\.`
+
+

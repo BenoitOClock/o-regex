@@ -8,9 +8,11 @@ Ecrivez une expression régulière qui corresponde uniquement aux 2 premières l
 
 ## exercice
 
-1. match hog
-2. match dog
-3. skip bog
+| tâche | texte |
+| ----- | ----- |
+| match | dog   |
+| match | hog   |
+| skip  | bog   |
 
 **solution**
 

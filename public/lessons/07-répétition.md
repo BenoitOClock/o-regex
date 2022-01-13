@@ -10,10 +10,11 @@ Ecrivez une expression régulière qui ne correspond qu'aux 2 premières lignes
 
 ## exercice
 
-1. match wazzzzzup
-2. match wazzup
-3. skip wazup
-
+| tâche | texte     |
+| ----- | --------- |
+| match | wazzzzzup |
+| match | wazzup    |
+| skip  | wazup     |
 
 **solution**
 

@@ -8,12 +8,14 @@ Trouvez une expression régulière qui corresponde uniquement aux 3 première li
 
 ## exercice
 
-1. match can
-2. match man
-3. match fan
-4. skip dan
-5. skip ran
-6. skip pan
+| tâche | texte |
+| ----- | ----- |
+| match | can   |
+| match | man   |
+| match | fan   |
+| skip  | dan   |
+| skip  | ran   |
+| skip  | pan   |
 
 **solution**
 

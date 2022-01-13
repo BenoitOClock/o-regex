@@ -8,11 +8,12 @@ Voici quelques lignes de texte contenant des chiffres. Essayez d'écrire un patt
 
 ## exercice
 
-1. match const distance = 123
-2. match define "123"
-3. match abc123xyz
+| tâche | texte                |
+| ----- | -------------------- |
+| match | const distance = 123 |
+| match | define "123"         |
+| match | abc123xyz            |
 
 **solution**
 
 `123` ou `\d\d\d`
-

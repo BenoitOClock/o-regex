@@ -10,12 +10,14 @@ Dans l'exercice suivant vous devez trouver une regex correspondant aux 3 premiè
 
 ## exercice
 
-1. match Ana
-2. match Bob
-3. match Cpc
-4. skip aax
-5. skip bby
-6. skip ccz
+| tâche | texte |
+| ----- | ----- |
+| match | Ana   |
+| match | Bob   |
+| match | Cpc   |
+| skip  | aax   |
+| skip  | bby   |
+| skip  | ccz   |
 
 **solution**
 

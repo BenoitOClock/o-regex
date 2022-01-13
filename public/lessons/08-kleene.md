@@ -11,11 +11,12 @@ Essayer de trouver une regex qui ne match que les 3 premières lignes en utilisa
 
 ## exercice
 
-1. match aaaabcc
-2. match aabbbbc
-3. match aacc
-4. skip a
-
+| tâche | texte   |
+| ----- | ------- |
+| match | aaaabcc |
+| match | aabbbbc |
+| match | aacc    |
+| skip  | a       |
 
 **solution**
 
