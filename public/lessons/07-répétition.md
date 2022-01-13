@@ -8,7 +8,7 @@ Ce quantificateur peut-être utilisé avec n'importe quel caractère ou métacar
 
 Ecrivez une expression régulière qui ne correspond qu'aux 2 premières lignes
 
-**exercice**
+## exercice
 
 1. match wazzzup
 2. match wazzup

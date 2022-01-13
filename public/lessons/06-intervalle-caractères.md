@@ -8,7 +8,7 @@ Il est possible d'utiliser plusieurs intervalles au sein de la même paire de cr
 
 Dans l'exercice suivant vous devez trouver une regex correspondant aux 3 premières lignes. Notez que les intervalles sont sensibles à la casse. `[a-z]` ne correspond qu'aux minuscules et `[A-Z]` qu'aux majuscules.
 
-**exercice**
+## exercice
 
 1. match Ana
 2. match Bob

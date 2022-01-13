@@ -9,7 +9,7 @@ Ce quantificateur peut-être utilisé avec n'importe quel caractère ou métacar
 
 Essayer de trouver une regex qui ne match que les 3 premières lignes en utilisant l'étoile et le plus de Kleene
 
-**exercice**
+## exercice
 
 1. match aaaabcc
 2. match aabbbbc

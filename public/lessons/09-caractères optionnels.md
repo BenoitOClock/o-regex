@@ -8,7 +8,7 @@ Tout comme le métacaractère `.`, le point d'interrogation est un caractère sp
 
 Remarquer comme le pluriel du mot `file` dépend du nombre de fichiers trouvés et essayer d'écrire un pattern utilisant le métacaractère `?`et correspondant aux 3 premières lignes, celles où au moins un fichier est trouvé.
 
-**exercice**
+## exercice
 
 1. match 1 file found?
 2. match 2 files found?

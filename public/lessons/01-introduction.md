@@ -10,7 +10,7 @@ Vous trouverez ci-dessous un encart avec quelques lignes de texte et un champs d
 
 Pour continuer, essayer d'écrire un pattern qui corresponde aux 3 lignes affichées... par exemple essayez simplement les lettres communes à chaque ligne
 
-**exercice**
+## exercice
 
 1. match abcdefg
 2. match abcde

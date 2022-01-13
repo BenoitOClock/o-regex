@@ -6,7 +6,7 @@ Il est possible de faire correspondre notre pattern avec plusieurs caractères s
 
 Trouvez une expression régulière qui corresponde uniquement aux 3 première lignes ci-dessous. Vous constatez qu'en utilisant le`.` il est impossible de ne pas correspondre avec les 3 dernières lignes.
 
-**exercice**
+## exercice
 
 1. match can
 2. match man

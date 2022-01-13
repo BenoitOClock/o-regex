@@ -6,7 +6,7 @@ Pour représenter l'exclusion de caractères spécifiques, on utilise la même n
 
 Ecrivez une expression régulière qui corresponde uniquement aux 2 premières lignes ci-dessous. La plupart des pattern de ce genre peuvent aussi être écrit en utilisant la technique de la leçon précédente. Utilisez la plus adaptée.
 
-**exercice**
+## exercice
 
 1. match hog
 2. match dog
