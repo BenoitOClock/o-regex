@@ -15,4 +15,4 @@ Vous trouverez ci-dessous 4 chaînes dont les caractères diffèrent mais qui so
 
 **solution**
 
-...\.
+`...\.`

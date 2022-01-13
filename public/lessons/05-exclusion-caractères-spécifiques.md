@@ -14,4 +14,4 @@ Ecrivez une expression régulière qui corresponde uniquement aux 2 premières l
 
 **solution**
 
-[^b]og ou [hd]og
+`[^b]og` ou `[hd]og`

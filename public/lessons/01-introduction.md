@@ -18,4 +18,4 @@ Pour continuer, essayer d'écrire un pattern qui corresponde aux 3 lignes affich
 
 **solution**
 
-abc
+`abc`

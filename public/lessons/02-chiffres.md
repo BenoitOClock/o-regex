@@ -14,5 +14,5 @@ Voici quelques lignes de texte contenant des chiffres. Essayez d'écrire un patt
 
 **solution**
 
-123 ou \d\d\d
+`123` ou `\d\d\d`
 
