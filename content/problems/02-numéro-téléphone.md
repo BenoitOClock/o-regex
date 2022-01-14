@@ -2,5 +2,4 @@
 
 ## Exercice
 
-
 **Solution**

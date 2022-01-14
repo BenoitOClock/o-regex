@@ -6,7 +6,7 @@ Concernant les chiffres, le métacaractère `\d` peut être utilisé pour corres
 
 ## exercice
 
-Voici quelques lignes de texte contenant des chiffres. Essayez d'écrire un pattern qui corresponde à tous les chiffres de ces lignes et remarquer comme votre pattern correspond avec les chiffres où qu'ils se situent dans la chaîne et pas simplement en partant du début. Nous verrons comment contrôler ce comportement dans une des leçons suivante.
+Voici quelques lignes de texte contenant des chiffres. Essayez d'écrire un pattern qui corresponde à tous les chiffres de ces lignes et remarquer comme votre pattern correspond avec les chiffres où qu'ils se situent dans la chaîne et pas simplement en partant du début. Nous verrons comment contrôler ce comportement dans une des leçons suivantes.
 
 | tâche | texte                |
 | ----- | -------------------- |
