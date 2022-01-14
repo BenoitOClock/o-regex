@@ -4,7 +4,7 @@ Nous l'avons vu lors des leçons précédentes, tous les quantificateurs (`*`, `
 
 Imaginons par exemple que nous travaillons sur une liste de numéros de téléphone dont certains sont précédés de l'indicatif international (une série de 3 chiffres, 033 pour le france). Le pattern correct doit vérifier l'existence du groupe entier avec `(\d{3})?` et pas chaque caractère pris individuellement.
 
-Certaines versions du moteur des expressions régulières permettent la création de groupe non-capturants. Ils permettent de correspondre à un groupe de caractères mais ne capture pas la valeur qui ne sera pas dans les résultats de l'extraction.
+Certaines versions du moteur des expressions régulières permettent la création de groupes non-capturants. Ils permettent de correspondre à un groupe de caractères mais ne capturent pas la valeur qui ne sera pas dans les résultats de l'extraction. Pour ce faire, il suffit de commencer le pattern du groupe par `?:` comme par exemple `(:?\d+)`
 
 ## Exercice
 
