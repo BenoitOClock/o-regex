@@ -16,10 +16,6 @@ Ecrivez une regex qui corresponde seulement à la première ligne.
 
 | tâche | texte                                           |
 | ----- | ----------------------------------------------- |
-| match | Mission: sucessfull                             |
+| match | Mission: successful                             |
 | skip  | Last Mission: unsuccessful                      |
 | skip  | Next Mission: successful upon capture of target |
-
-**solution**
-
-`^Mission: successful$`
